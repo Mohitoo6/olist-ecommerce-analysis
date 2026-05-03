@@ -1,0 +1,12 @@
+### 06a_seller_pareto
+
+_Source query: see corresponding 0X_*.sql file. Showing first 10 rows of `06a_seller_pareto.csv`._
+
+| bucket | sellers | gmv_brl | pct_of_total_gmv | 
+|---|---|---|---|
+| Top 1% | 30 | 3477302.23 | 25.68 | 
+| Top 5% | 123 | 3718408.78 | 27.46 | 
+| Top 10% | 153 | 1928154.20 | 14.24 | 
+| Top 25% | 461 | 2659321.48 | 19.64 | 
+| Top 50% | 767 | 1318385.44 | 9.74 | 
+| Bottom 50% | 1534 | 440140.65 | 3.25 | 

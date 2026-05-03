@@ -1,0 +1,31 @@
+# --- Raw data (download from Kaggle; see data/raw/README.md) ---------------
+# 120MB total; geolocation alone exceeds GitHub's 50MB warning threshold.
+data/raw/*.csv
+
+# Cleaned exports — derived artifacts, regenerable from raw.
+data/cleaned/*.csv
+data/cleaned/*.parquet
+
+# --- Python -----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.env
+
+# --- Jupyter ----------------------------------------------------------------
+.ipynb_checkpoints/
+
+# --- Streamlit --------------------------------------------------------------
+.streamlit/
+
+# --- OS ---------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+
+# --- IDE --------------------------------------------------------------------
+.idea/
+.vscode/
+*.swp

@@ -1,0 +1,10 @@
+segment,customers,pct_of_base,avg_recency_days,avg_orders,avg_lifetime_gmv,segment_total_gmv,segment_share_of_gmv,avg_review_score
+New & Promising,14902,15.6,94,1.00,267.97,3993307.36,29.5,4.10
+High-Value Lost,11950,12.5,396,1.00,272.37,3254875.24,24.0,4.58
+Need Attention,18523,19.3,222,1.00,128.83,2386282.72,17.6,3.95
+Hibernating,23164,24.2,396,1.00,54.41,1260426.11,9.3,4.10
+Recent One-Timers,22121,23.1,91,1.00,55.13,1219464.54,9.0,4.19
+High-Value Burnt,2139,2.2,385,1.00,305.18,652789.05,4.8,1.20
+Champions,985,1.0,90,2.20,329.68,324731.39,2.4,4.20
+At Risk Repeaters,1056,1.1,383,2.08,251.23,265299.05,2.0,4.11
+Loyal,934,1.0,177,2.07,197.58,184537.32,1.4,4.03
